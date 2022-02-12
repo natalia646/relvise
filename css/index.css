@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2? family= Montserrat:wght@100 & display=swap');
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+.wrapper{
+    min-height: 100%;
+    overflow: hidden;
+}
+._container{
+    max-width: 1046px;
+    margin: 0px auto;
+}
